@@ -1,0 +1,11 @@
+.bag1{
+    box-shadow: 0 5px 5px grey;
+    width: 280px !important;
+}
+
+a{
+    border: 3px solid dodgerblue !important;
+    font-size: 10px!important;
+    font-weight: bold;
+    box-sizing: border-box;
+}

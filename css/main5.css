@@ -1,0 +1,97 @@
+.bag1{
+    background: linear-gradient(65deg,deeppink,purple);
+    border-radius: 18px!important;
+    width: 200px !important;
+    margin-left: 25px !important;
+    margin-top: 10px !important;
+}
+.bag01{
+    height: 555px !important;
+
+}
+h4{
+    display: inline-block !important;
+}
+h1{
+        display: inline-block !important;
+    font-size: 50px !important;
+}
+.bag02{
+    background: linear-gradient(65deg,deeppink,purple);
+    color: white;
+}
+.bag4{
+    background-color: mintcream;
+}
+.bag3{
+    border-radius: 18px !important;
+    width: 200px !important;
+    margin-left: 25px !important;
+    margin-top: 10px !important;
+    border: 2px solid dodgerblue;
+    font-weight: bold;
+}
+.bag03{
+    background: linear-gradient(45deg,#007bff,#0056b3);
+    color: white;
+}
+.bag04{
+ background: linear-gradient(45deg,orange,red);
+    color: white;
+}
+.bag5{
+    border-radius: 18px !important;
+    width: 200px !important;
+    margin-left: 25px !important;
+    margin-top: 10px !important;
+    border: 2px solid red;
+    font-weight: bold;
+}
+.bag06{
+    background: linear-gradient(45deg,#5b60ea,#7269ea);
+    color: white;
+
+}
+.bag6{
+    border-radius: 18px !important;
+    width: 200px !important;
+    margin-left: 25px !important;
+    margin-top: 10px !important;
+    border: 2px solid #866cea;
+    font-weight: bold;
+    color: #866cea;
+}
+
+.bag6{
+    color: #866cea;
+    background-color: transparent;
+    background-image: none;
+    border-color:  #866cea;
+}
+
+.bag6:hover {
+    color: #fff;
+    background-color:  #866cea;
+    border-color:  #866cea;
+}
+
+.bag6:focus, .bag6.focus {
+    box-shadow: 0 0 0 0.2rem  #866cea;
+}
+
+.bag6.disabled, .bag6:disabled {
+    color: #866cea;
+    background-color: transparent;
+}
+
+.bag6:not(:disabled):not(.disabled):active, .bag6:not(:disabled):not(.disabled).active,
+.show > .bag6.dropdown-toggle {
+    color: #fff;
+    background-color:  #866cea;
+    border-color:  #866cea;
+}
+
+.bag6:not(:disabled):not(.disabled):active:focus, .bag6:not(:disabled):not(.disabled).active:focus,
+.show > .bag6.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem  #866cea;
+}
